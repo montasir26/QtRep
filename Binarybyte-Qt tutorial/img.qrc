@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/edit-7-128.png</file>
+        <file>img/tutorial_logo.png</file>
+        <file>img/binarybytefinal.jpg</file>
+    </qresource>
+</RCC>
